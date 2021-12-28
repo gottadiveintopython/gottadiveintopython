@@ -7,7 +7,7 @@
 
 ### 作ったAndroidアプリ
 
-- [Mostx](https://play.google.com/store/apps/details?id=jp.gottadiveintopython.mostx) ... Quiz Game
+- [Mostx](https://play.google.com/store/apps/details?id=jp.gottadiveintopython.mostx) ... Quiz Game ([広告無し版](https://play.google.com/store/apps/details?id=jp.gottadiveintopython.mostx_noads))
 - [注文計算アプリ](https://play.google.com/store/apps/details?id=jp.gottadiveintopython.chumon_kesan) ... 仕事効率化系
 
 ### 各種あか
