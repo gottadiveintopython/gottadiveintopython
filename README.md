@@ -1,4 +1,4 @@
-これまでの人生で身につけた技術がPythonとKivyだけという悲しい輩
+特に作りたい物が無いのにプログラミングに手を出した男の末路
 
 ### 主にやっている事
 
@@ -7,7 +7,7 @@
 
 ### 作ったAndroidアプリ
 
-- [Mostx](https://play.google.com/store/apps/details?id=jp.gottadiveintopython.mostx) ... Quiz Game ([広告無し版](https://play.google.com/store/apps/details?id=jp.gottadiveintopython.mostx_noads))
+- [Mostx](https://play.google.com/store/apps/details?id=jp.gottadiveintopython.mostx)([広告無し版](https://play.google.com/store/apps/details?id=jp.gottadiveintopython.mostx_noads)) ... Quiz Game 
 - [注文計算アプリ](https://play.google.com/store/apps/details?id=jp.gottadiveintopython.chumon_kesan) ... 仕事効率化系
 
 ### 各種あか
