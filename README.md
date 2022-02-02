@@ -1,4 +1,4 @@
-特に作りたい物が無いのにプログラミングに手を出した男の末路
+特に作りたい物が無いのにプログラミングに手を出した輩の末路
 
 ### 主にやっている事
 
@@ -12,5 +12,6 @@
 
 ### 各種あか
 
+[Twitter](https://twitter.com/dive_into_py)
 [Qiita](https://qiita.com/gotta_dive_into_python)
 [YouTube](https://www.youtube.com/channel/UCcu_WzusAoPX2cyi8K2N-0g)
